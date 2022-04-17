@@ -1,0 +1,65 @@
+.wish{
+    padding: 100px 0 100px 0;
+}
+.wish-inner{
+    margin: 0 auto;
+    max-width: 1200px;
+    text-align: left;
+}
+.wish-inner table{
+    width: 100%;
+    border-collapse: collapse;
+}
+.wish-inner table thead{
+    background-color: #f3f3f3;
+}
+.wish-inner table thead th{
+    min-width: 50px;
+    font-size: 14px;
+    text-transform: uppercase;
+    padding: 16px 12px 14px;
+    font-weight: 600;
+}
+.wish-inner table tbody tr{
+    border-bottom: 1px solid #e5e5e5;
+}
+.wish-inner table tbody tr td{
+    padding: 23px 12px;
+}
+.p1 a{
+    font-size: 28px;
+    display: inline-block;
+    color: #c3c3c3;
+}
+.p2 a{
+    display: block;
+}
+.p2 img{
+    width: 80px;
+}
+.p3 a{
+    font-size: 15px;
+    display: block;
+    color: black;
+}
+.wish-inner span{
+    font-size: 15px;
+}
+.p6 a{
+    display: inline-block;
+    font-size: 15px;
+    color: #ffffff;
+    padding: 10px 15px 10px;
+    background-color: #e97730;
+}
+.wish-inner a{
+    transition: all 1s;
+}
+.wish-inner a:hover{
+    text-decoration: none !important;
+    color: #e97730;
+
+}
+.p6 a:hover{
+    background-color: black;
+}

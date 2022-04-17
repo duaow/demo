@@ -1,0 +1,173 @@
+.sta{
+    padding: 95px 0 100px 0;
+
+}
+.sta-inner{
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: left;
+}
+.laster-inner{
+    width: auto;
+
+}
+ .sta .row>div{
+    margin-bottom: 50px;
+}
+.num-1 ul{
+    padding: 0!important;
+}
+.po form{
+    position: relative;
+}
+.po form input{
+    border: 1px solid #dcdcdc;
+    height: 60px;
+    color: #a6a6a6;
+    font-weight: 300;
+    padding: 2px 70px 2 25px;
+    width: 100%;
+    font-size: 20px;
+}
+.po form button{
+    position: absolute;
+    top: 30%;
+    right: 19px;
+    border: none;
+    background-color: transparent;
+    font-size: 18px;
+    color: #818181;
+    font-size: 20px;
+}
+.po form button i{
+    font-size: 20px;
+}
+.po form{
+    margin-bottom: 50px;
+}
+.po1{
+    background-color: #f4f4f4;
+    padding: 40px 20px 35px ;
+    text-align: center;
+}
+.po1 a{
+    display: inline-block;
+    max-width: 100%;
+
+}
+.po1 a img{
+    display: block;
+}
+.po1 h2{
+    font-size: 24px;
+    font-weight: 500;
+    color: #4a4a4a;
+    margin-top: 16px;
+}
+.po1 h4{
+    font-size: 16px;
+    color: #4a4a4a;
+    margin: 9px 0 25px;
+
+}
+.po2 h3{
+    font-size: 24px;
+    font-weight: 600;
+    color: #4a4a4a;
+    padding-left: 35px;
+    position: relative;
+    margin-bottom: 25px;
+}
+.po2 h3::before{
+    position: absolute;
+    content: "";
+    left: 0;
+    top: 2px;
+    width: 16px;
+    height: 16px;
+    background-color: #e97730;
+}
+.po2 h3::after{
+        position: absolute;
+        content: "";
+        left: 7px;
+        top: 7px;
+        width: 16px;
+        height: 16px;
+        background-color: #e97730;
+        border: 2px solid #ffffff;
+    
+    }
+    .po2 ul li{
+        display: block;
+        margin-bottom: 8px;
+    }
+    .po2 ul li a{
+        font-size: 16px;
+        font-weight: 300;
+        color: #2f2f2f;
+        display: inline-block;
+        transition: all 1s;
+    }
+    .po2 ul li a:hover{
+        color: #e97730;
+        text-decoration: none;
+    }
+    .po2-2{
+        margin-bottom: 26px;
+    }
+    .pos{
+        margin-bottom: 26px;
+    }
+    .po2-1{
+        float: left;
+        margin-right: 20px;
+
+    }
+    .po2-1 a,.po2-1 img{
+        display: block;
+
+    }
+    .po2-2{
+        float: left;
+    }
+    .po2-2 span{
+        font-weight: 500;
+        color: #777777;
+        font-size: 14px;
+    }
+    .po2-2 h4{
+        font-size: 16px;
+        font-weight: 600;
+        color: #4a4a4a;
+        margin: 4px 0 7px;
+        line-height: 23px;
+    }
+    .po2-2 a{
+        font-weight: 500;
+        color: #8b8a89;
+        display: inline-block;
+        text-transform: uppercase;
+    }
+    .po3 a{
+
+        font-weight: 500;
+        color: #959595;
+        display: inline-block;
+        border: 1px solid #eeeeee;
+        padding: 11px 14px;
+        margin: 0 11px 15px 0;
+        font-size: 16px;
+
+    }
+    .po4{
+       overflow: hidden;
+    }
+    .po4 img{
+        transition: all .3s;
+        
+    }
+    .po4 img:hover{
+        transform: scale(1.05);
+
+    }

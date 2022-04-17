@@ -1,0 +1,102 @@
+.shop-bottom1 .row>div>a{
+
+    display: block;
+
+}
+.shop-bottom1 button,.shop-bottom1 a{
+    transition: all 1s;
+}
+.shop-bottom1 button:hover{
+background-color: #e97730;
+color: #fff;
+
+
+}
+.shop-bottom1 a:hover{
+    color: #e97730;
+    text-decoration: none;
+}
+.shop-bottom1{
+    margin-bottom: 50px;
+}
+.shop-bottom1 .row>div>a img{
+    width: 100%;
+}
+.shop-bottom1 .row>div{
+    position: relative;
+}
+.b1{
+    position: absolute;
+    top: 7px;
+    right: 20px;
+}
+.b1 span{
+    font-size: 16px;
+    font-weight: 500;
+    color: #fd1748;
+}
+.b2{
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    display: none;
+}
+.b2 button{
+    background-color: #fff;
+    font-size: 23px;
+    height: 45px;
+    text-align: center;
+    width: 45px;
+    line-height: 45px;
+    border-radius: 6px;
+}
+.shop-bottom1 h3{
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.b3 span:nth-child(1){
+    margin-right: 13px;
+    color: #555252;
+    text-decoration: line-through;
+    font-size: 18px;
+    font-weight: 500;
+}
+.b3-1 span{
+    margin-right: 13px;
+    color: #555252;
+    
+    font-size: 18px;
+    font-weight: 500;
+}
+.b3 span:nth-child(2){
+    color: #fd1748;
+    font-size: 18px;
+    font-weight: 500;
+}
+.b4{
+    margin-top: 20px;
+}
+.b4 i{
+    font-size: 15px;
+    margin-right: 2px;
+    color: #e97730;
+}
+.shop-bottom1 p{
+    margin-top: 8px;
+    margin-bottom: 14px;
+    font-size: 16px;
+}
+.b5  button{
+    background-color: #fff;
+    font-size: 23px;
+    height: 45px;
+    text-align: center;
+    width: 45px;
+    line-height: 45px;
+    border-radius: 6px;
+    margin-right: 10px;
+}
+.q2{
+    display: none;
+}

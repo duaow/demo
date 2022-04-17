@@ -1,0 +1,50 @@
+.das{
+    padding: 95px 0 100px 0;
+}
+.das-inner{
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: left;
+}
+.das-1 a{
+    border: 1px solid #ccc;
+    display: block;
+    padding: 10px 15px;
+    font-size: 15px;
+    font-weight: 500;
+    transition: all 1s;
+}
+.des-1-1{
+    background-color: #e97730;
+    border-color: #e97730;
+    color: #ffffff;
+}
+.das-1 a:hover{
+    background-color: #e97730;
+    border-color: #e97730;
+    color: #ffffff;
+    text-decoration: none;
+
+}
+.des-2{
+    border:  1px solid #eeeeee;
+    padding: 30px;
+}
+.des-2 h3{
+    font-size: 20px;
+    border-bottom: 1px dashed #ccc;
+    padding-bottom: 10px;
+    margin-bottom: 25px;
+
+}
+.des-2 p{
+    font-size: 14px;
+}
+.des-2 p strong{
+    color: #e97730;
+    font-weight: 600;
+}
+.des-2 a:hover{
+    text-decoration: none;
+    color: #e97730;
+}
